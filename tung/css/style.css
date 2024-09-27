@@ -132,7 +132,6 @@ header .logo img {
 }
 
 /* Footer */
-/* Footer */
 footer {
     background-color: #ebe3e3; 
     padding: 20px 0; 
@@ -207,8 +206,6 @@ footer {
 .footer-contact a:hover {
     color: #4CAF50; 
 }
-
-/* Responsive cho màn hình nhỏ hơn */
 @media (max-width: 768px) {
     header {
         flex-direction: column;
@@ -223,14 +220,6 @@ footer {
     .news-grid {
         grid-template-columns: 1fr;
     }
-}
-/* Header */
-header {
-   
-    padding: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
 }
 
 
